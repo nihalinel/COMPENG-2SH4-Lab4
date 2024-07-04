@@ -1,8 +1,12 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/cpsktVzX)
-# COE2SH4-Lab4Template
+# COE2SH4-Lab4
 
-Section: [Insert your lab section]
+Completed for COMPENG 2SH4: Principles of Programming @ McMaster University
 
-MacID: inela
+November 23, 2023
 
-StudentID: 400448431
+Template credit: Scott Chen
+
+# Topic:
+
+Matrix Class using OOP
+
